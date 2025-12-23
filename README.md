@@ -13,3 +13,5 @@ dec2025
   - [8list_challenge.py](./dec-2025/8list_challenge.py)
 
   - [9fizzbuzz.py](./dec-2025/9fizzbuzz.py)
+
+  - [10.py](./dec-2025/10.py)
