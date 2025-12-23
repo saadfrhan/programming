@@ -15,3 +15,4 @@ dec2025
   - [9fizzbuzz.py](./dec-2025/9fizzbuzz.py)
 
   - [10.py](./dec-2025/10.py)
+  - [11.py](./dec-2025/11.py)
